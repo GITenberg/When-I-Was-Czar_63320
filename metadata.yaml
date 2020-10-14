@@ -1,0 +1,27 @@
+_repo: When-I-Was-Czar_63320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marchmont, Arthur W.
+    alias: Marchmont, Arthur Williams
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '37728'
+    url: http://www.gutenberg.org/2009/agents/37728
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Americans -- Russia -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: When I Was Czar
+url: http://www.gutenberg.org/ebooks/63320
